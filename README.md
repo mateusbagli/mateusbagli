@@ -12,7 +12,7 @@ Sou de Presidente Prudente (SP) e atualmente curso Sistemas de Informação na U
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-plain.svg" /> 
+    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-plain.svg" 
 />
 <img 
     align="left" 
