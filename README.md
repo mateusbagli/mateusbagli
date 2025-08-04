@@ -44,7 +44,7 @@ Sou de Presidente Prudente (SP) e atualmente curso Sistemas de Informação na U
     title="Node-Red" 
     width="30px" 
     style="padding-right: 10px;" 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" />     
+    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg"  
 />
 
 <br/>
