@@ -30,6 +30,22 @@ Sou de Presidente Prudente (SP) e atualmente curso Sistemas de Informação na U
     style="padding-right: 10px;" 
     img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Postman"
+    title="Postman" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"     
+/>
+<img 
+    align="left" 
+    alt="Node-Red"
+    title="Node-Red" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" />     
+/>
 
 <br/>
 <br/>
