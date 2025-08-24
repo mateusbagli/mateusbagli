@@ -12,7 +12,6 @@ Sou de Presidente Prudente (SP) e atualmente curso Sistemas de Informação na U
 ### 📊 Estatísticas do GitHub
 
 <div align="center" style="border: 1px solid #444; padding: 10px; border-radius: 10px;">
-  <h3>Estatísticas do GitHub de Mateus Correia Veronezi Bagli</h3>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=mateusbagli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     height="200"
