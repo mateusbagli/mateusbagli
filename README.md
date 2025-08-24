@@ -9,21 +9,10 @@ Sou de Presidente Prudente (SP) e atualmente curso Sistemas de Informação na U
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" title="Swift" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" title="Node-Red" width="40px"/>
-</div>
-
----
-
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
+<div align="center" style="border: 1px solid #444; padding: 10px; border-radius: 10px;">
+  <h3>Estatísticas do GitHub de Mateus Correia Veronezi Bagli</h3>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=mateusbagli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     height="200"
@@ -39,10 +28,24 @@ Sou de Presidente Prudente (SP) e atualmente curso Sistemas de Informação na U
 
 ---
 
+
+### 🤖 Linguagens e Tecnologias
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" title="Swift" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" title="Node-Red" width="40px"/>
+</div>
+
+
+---
+
 ### 📫 Contato
 
-- 📧 Email: mateus.bagli@exemplo.com  
-- 💼 LinkedIn: [linkedin.com/in/mateusbagli](https://linkedin.com/in/mateusbagli)  
-- 🌐 Portfólio: [mateusbagli.dev](https://mateusbagli.dev) _(se tiver)_
+- 📧 Email: mateuscvbagli@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/mateusbagli]([https://linkedin.com/in/mateusbagli](https://www.linkedin.com/in/mateus-correia-veronezi-bagli-4b571a364)) 
 
 ---
