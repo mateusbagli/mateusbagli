@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 Sou de Presidente Prudente (SP) e atualmente curso Sistemas de Informação na Universidade do Oeste Paulista. Busco crescimento profissional e oportunidades que me permitam aplicar e ampliar meus conhecimentos na área de tecnologia. Tenho facilidade para trabalhar em equipe, sou comprometido com resultados e possuo um ótimo relacionamento interpessoal. Estou em constante aprendizado e motivado a construir uma carreira sólida no mercado de TI.
 
 
